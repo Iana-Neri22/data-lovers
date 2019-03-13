@@ -8,6 +8,7 @@ Desenvolvemos uma aplicação que oferece aos usuários informações sobre os 1
 Nossos usuários são crianças de 5 a 12 anos que jogam Pokemon Go e querem ter acesso aos dados dos Pokemons que encontram.
 
 ![data-lovers](/imgs/esbocos/usuario.jpeg)
+![data-lovers](/imgs/esbocos/usuaria.jpg)
 
 
 ## ESBOÇOS DE BAIXA FIDELIDADE DA APLICAÇÃO
